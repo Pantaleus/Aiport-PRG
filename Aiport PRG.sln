@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aiport PRG", "Aiport PRG\Aiport PRG.csproj", "{20CB318B-A42D-48F2-8753-99CDE3D0CC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CB318B-A42D-48F2-8753-99CDE3D0CC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CB318B-A42D-48F2-8753-99CDE3D0CC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CB318B-A42D-48F2-8753-99CDE3D0CC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CB318B-A42D-48F2-8753-99CDE3D0CC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B67917-4863-4691-A00C-B7D500DF42A9}
+	EndGlobalSection
+EndGlobal
